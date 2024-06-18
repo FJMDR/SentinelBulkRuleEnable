@@ -1,5 +1,7 @@
 # Azure Sentinel Bulk Enable Rules
 
+Medium post about it: https://medium.com/@tanukisec/bulk-enabling-sentinel-analytics-rules-with-python-7c36949a0ead
+
 This allows you to bulk enable a chunk of Content Hub Analytics temapltes.
 
 Basically the python version of this https://charbelnemnom.com/set-microsoft-sentinel-analytics-rules-at-scale/
