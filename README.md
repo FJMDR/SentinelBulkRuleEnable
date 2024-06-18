@@ -1,4 +1,4 @@
-# Azure Security Insights Automation
+# Azure Sentinel Bulk Enable Rules
 
 This allows you to bulk enable a chunk of Content Hub Analytics temapltes.
 
